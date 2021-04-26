@@ -61,31 +61,31 @@
 
 <hr>
 
-- 🙋🏼‍♀️  Pronouns: she | her
+- 🙋🏼‍♀️.  Pronouns: she | her
 
-- 👩🏼‍💻  I’m currently working on a lightening talk about _The Impacts of Incarceration on Access to Technology_. 
+- 👩🏼‍💻.  I’m currently working on a lightening talk about _The Impacts of Incarceration on Access to Technology_. 
 
-- 🖼 I have over 10yrs of experience designing and building custom framing for contemporary fine artwork.
+- 🖼.  I have over 10yrs of experience designing and building custom framing for contemporary fine artwork.
 
-- 👩🏼‍🎓 I earned my bachelor's degree in Fine Visual Art with a minor in Traditional Eastern Arts from Naropa University. 
+- 👩🏼‍🎓.  I earned my bachelor's degree in Fine Visual Art with a minor in Traditional Eastern Arts from Naropa University in Boulder, CO. 
 
-- 🧠 I’m currently learning how to build PWAs, CI/CD, Apollo Client for GraphQL, testing with Jest, Redux & much more!
+- 🧠.  I’m currently learning how to build PWAs, CI/CD, Apollo Client for GraphQL, testing with Jest, Redux & much more!
  
 
-- ⌨️ My kind of code is:
+- ⌨️.  My kind of code is:
   
   - modular, DRY and SRP
   - well-tested
   - well-documented and organized
   - accessible and responsive
 
-- 🌿 Ask me about why I'm a plant person...
+- 🌿.  Ask me about why I'm a plant person...
 
   - Being surrounded by plants has proven psychological benefits 🌻
   - Plants provide sustainable nutrition for human bodies 🥑
   - Our air and water are cleaner when our world is greener 🌳 
 
-- ⚡️ What I do (besides code!):
+- ⚡️.  What I do (besides code!):
 
   - Run 🏃‍♀️
   - Yoga 🧘‍♀️
@@ -95,7 +95,7 @@
   - Draw and Paint 👩🏼‍🎨
 
 
-😄 I am a recent graduate of the FrontEnd Engineering program at [Turing School of Software and Design](https://turing.edu/), looking to join a mission-driven team with supportive mentorship to build and contribute my skills to developing software for good. ✌️
+😄. I am a graduate of the FrontEnd Engineering program at [Turing School of Software and Design](https://turing.edu/), looking to join a mission-driven team with supportive mentorship to build and contribute my skills to developing software for good. ✌️
 
 
 
