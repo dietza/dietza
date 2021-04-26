@@ -8,27 +8,27 @@
 <section align="center">
   
   <a href="https://github.com/dietza/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dietza&show_icons=true&theme=tokyonight" height="200" width="500"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dietza&show_icons=true" height="200" width="500"/>
   </a>
   
   <a href="https://github.com/dietza/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dietza&theme=tokyonight" height="200" width="300"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dietza" height="200" width="300"/>
   </a>
   
   <a href="https://github.com/dietza/EdibleEarth">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dietza&repo=EdibleEarth&theme=tokyonight" height="200" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dietza&repo=EdibleEarth" align="center" height="200" width="400"/>
   </a>
   
   <a href="https://github.com/dietza/GardenParty-frontend-ui">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dietza&repo=GardenParty-frontend-ui&theme=tokyonight" height="200" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dietza&repo=GardenParty-frontend-ui" align="center" height="200" width="400"/>
   </a>
   
   <a href="https://github.com/dietza/activAir">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dietza&repo=activAir&theme=tokyonight" height="200" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dietza&repo=activAir" align="center" height="200" width="400"/>
   </a>
   
   <a href="https://github.com/dietza/rowdy-taters">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dietza&repo=rowdy-taters&theme=tokyonight" height="200" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dietza&repo=rowdy-taters" align="center" height="200" width="400"/>
   </a>
   
 </section>
