@@ -65,11 +65,11 @@
 
 - 👩🏼‍💻.  I’m currently working on a lightening talk about _The Impacts of Incarceration on Access to Technology_. 
 
-- 🖼.  I have over 10yrs of experience designing and building custom framing for contemporary fine artwork.
+- 🖼|  I have over 10yrs of experience designing and building custom framing for contemporary fine artwork.
 
 - 👩🏼‍🎓.  I earned my bachelor's degree in Fine Visual Art with a minor in Traditional Eastern Arts from Naropa University in Boulder, CO. 
 
-- 🧠.  I’m currently learning how to build PWAs, CI/CD, Apollo Client for GraphQL, testing with Jest, Redux & much more!
+- 🧠.  I’m currently learning: how to build PWAs, CI/CD, Apollo Client for GraphQL, testing with Jest, Redux & much more!
  
 
 - ⌨️.  My kind of code is:
@@ -85,7 +85,7 @@
   - Plants provide sustainable nutrition for human bodies 🥑
   - Our air and water are cleaner when our world is greener 🌳 
 
-- ⚡️.  What I do (besides code!):
+- ⚡️  What I do (besides code!):
 
   - Run 🏃‍♀️
   - Yoga 🧘‍♀️
