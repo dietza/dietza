@@ -97,7 +97,7 @@
 
 😄 I am a recent graduate of the FrontEnd Engineering program at [Turing School of Software and Design](https://turing.edu/), looking to join a mission-driven team with supportive mentorship to build and contribute my skills to developing software for good. ✌️
 
-<hr>
+
 
 <section align="center">
   <a href="https://www.linkedin.com/in/allison-dietz/"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
