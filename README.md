@@ -95,7 +95,7 @@
   - Draw and Paint 👩🏼‍🎨
 
 
-😄. I am a graduate of the FrontEnd Engineering program at ![Turing School of Software and Design](https://turing.edu/), looking to join a mission-driven team with supportive mentorship to build and contribute my skills to developing software for good. ✌️
+😄. I am a graduate of the FrontEnd Engineering program at [Turing School of Software and Design](https://turing.edu/), looking to join a mission-driven team with supportive mentorship to build and contribute my skills to developing software for good. ✌️
 
 
 
