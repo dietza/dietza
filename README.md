@@ -16,7 +16,7 @@
   </a>
   
   <a href="https://github.com/dietza/EdibleEarth">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dietza&repo=EdibleEarth&theme=blue-green" align="center" height="200" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dietza&repo=EdibleEarth&theme=blueberry" align="center" height="200" width="400"/>
   </a>
   
   <a href="https://github.com/dietza/GardenParty-frontend-ui">
