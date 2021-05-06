@@ -69,7 +69,7 @@
 
 - 👩🏼‍🎓.  I earned my bachelor's degree in Fine Visual Art with a minor in Traditional Eastern Arts from Naropa University in Boulder, CO. 
 
-- 🧠.  I’m currently learning: how to build PWAs, CI/CD, Apollo Client for GraphQL, testing with Jest, Redux & much more!
+- 🧠.  I’m excited to be learning: MongoDB, TypeScript, AWS and so much more!
  
 
 - ⌨️.  My kind of code is:
