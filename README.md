@@ -95,7 +95,7 @@
   - Draw and Paint 👩🏼‍🎨
 
 
-😄. I am a graduate of the FrontEnd Engineering program at [Turing School of Software and Design](https://turing.edu/), and part the Quality & Automation Engineering team at AppOmni, working to secure connections around the platforms that power us. ✌🏻
+😄. I am a graduate of the FrontEnd Engineering program at [Turing School of Software and Design](https://turing.edu/), and part the Quality & Automation Engineering team at AppOmni, working to secure connections around the services that power us. ✌🏻
 
 
 
