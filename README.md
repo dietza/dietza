@@ -63,39 +63,41 @@
 
 - 🙋🏼‍♀️.  Pronouns: she | her
 
-- 👩🏼‍💻.  I’m currently working on a lightening talk about _The Impacts of Incarceration on Access to Technology_. 
+- 👩🏼‍💻.  Ask about my lightening talk about _The Impacts of Incarceration on Access to Technology_. 
 
 - 🖼|  I have over 10yrs of experience designing and building custom framing for contemporary fine artwork.
 
-- 👩🏼‍🎓.  I earned my bachelor's degree in Fine Visual Art with a minor in Traditional Eastern Arts from Naropa University in Boulder, CO. 
+- 👩🏼‍🎓.  I earned my bachelor's degree in Fine Visual Art with a minor in Traditional Eastern Arts from Naropa University in Boulder, CO. Namasté 🙏🏼
 
 - 🧠.  I’m excited to be learning about: MongoDB, TypeScript, Docker and so much more!
  
 
 - ⌨️.  My kind of code is:
   
+  - easy to navigate and maintain
   - modular, DRY and SRP
-  - well-tested
+  - thoroughly well-tested
   - well-documented and organized
   - accessible and responsive
 
 - 🌿.  Ask me about why I'm a plant person...
 
   - Being surrounded by plants has proven psychological benefits 🌻
-  - Plants provide sustainable nutrition for human bodies 🥑
+  - Plants provide sustainable nutrition and various health healing powers for human bodies 🥑
   - Our air and water are cleaner when our world is greener 🌳 
+  - Each one has a unique personality (iykyk! 🌵)
 
-- ⚡️  What I do (besides code!):
+- ⚡️  What I do (away from the keyboard):
 
   - Run 🏃🏼‍♀️
   - Yoga 🧘🏼‍♀️
   - Garden 🪴
-  - Backpack / camping 🏕
-  - Read all kinds of books 📚
-  - Draw and Paint 👩🏼‍🎨
+  - Backpack / camp 🏕
+  - Read 📚
+  - Draw & Paint 👩🏼‍🎨
 
 
-😄. I am a graduate of the FrontEnd Engineering program at [Turing School of Software and Design](https://turing.edu/), and part the Quality & Automation Engineering team at AppOmni, working to secure connections around the services that power us. ✌🏻
+😄. I am part of the QA Engineering team at [AppOmni](appomni.com), working to secure connections to the services that power us through enterprise SaaS security management. I am also a graduate of the FrontEnd Engineering program at [Turing School of Software and Design](https://turing.edu/). ✌🏻
 
 
 
