@@ -97,7 +97,7 @@
   - Draw & Paint 👩🏼‍🎨
 
 
-😄. I am part of the QA Engineering team at [AppOmni](appomni.com), working to secure connections to the services that power us through enterprise SaaS security management. I am also a graduate of the FrontEnd Engineering program at [Turing School of Software and Design](https://turing.edu/). ✌🏻
+😄. I am part of the QA Engineering team at [AppOmni](https://appomni.com/), working to secure connections to the services that power us through enterprise SaaS security management. I am also a graduate of the FrontEnd Engineering program at [Turing School of Software and Design](https://turing.edu/). ✌🏻
 
 
 
