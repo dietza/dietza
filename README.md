@@ -45,9 +45,10 @@
 <img alt="Vue" src="https://img.shields.io/badge/vue.js%20-%23404d59.svg?&style=for-the-badge&logo=vue.js&logoColor=bright-teal"/>
 </p>
 <p style="text-align: center;">
+<img alt="Cypress.io" src="https://camo.githubusercontent.com/bd9c528263673db09f67bcf3445ba8e5512cfb6829e966a31ef7a378933b231a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d437970726573732e696f2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d637970726573732e696f266c6f676f436f6c6f723d7768697465"/>
+<img alt="Cucumber.io" src="https://img.shields.io/badge/-cucumber-%23404d59?&style=for-the-badge&logo=cucumber&fontColor=white">
 <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>
 <img alt="Chai" src="https://camo.githubusercontent.com/dc1b092fdeb7e14a149274315b4d53632d98e5ff80d94f3fc04bf2f995369b31/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861692d4131313430343f7374796c653d666f722d7468652d6261646765266c6f676f3d63686169266c6f676f436f6c6f723d7768697465"/>
-<img alt="Cypress.io" src="https://camo.githubusercontent.com/bd9c528263673db09f67bcf3445ba8e5512cfb6829e966a31ef7a378933b231a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d437970726573732e696f2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d637970726573732e696f266c6f676f436f6c6f723d7768697465"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 </p>
@@ -63,14 +64,8 @@
 
 - 🙋🏼‍♀️.  Pronouns: she | her
 
-- 👩🏼‍💻.  Ask about my lightening talk about _The Impacts of Incarceration on Access to Technology_. 
-
-- 🖼|  I have over 10yrs of experience designing and building custom framing for contemporary fine artwork.
-
-- 👩🏼‍🎓.  I earned my bachelor's degree in Fine Visual Art with a minor in Traditional Eastern Arts from Naropa University in Boulder, CO. Namasté 🙏🏼
-
-- 🧠.  I’m excited to be learning about: MongoDB, TypeScript, Docker and so much more!
- 
+- 🧠.  I’m excited to be learning about: leveraging Cypress.io for advanced test automation, building organized testing frameworks, 
+       Vue, TypeScript, Docker and so much more!
 
 - ⌨️.  My kind of code is:
   
@@ -80,12 +75,11 @@
   - well-documented and organized
   - accessible and responsive
 
-- 🌿.  Ask me about why I'm a plant person...
+- 👩🏼‍💻.  Ask about my lightening talk about _The Impacts of Incarceration on Access to Technology_. 
 
-  - Being surrounded by plants has proven psychological benefits 🌻
-  - Plants provide sustainable nutrition and various health healing powers for human bodies 🥑
-  - Our air and water are cleaner when our world is greener 🌳 
-  - Each one has a unique personality (iykyk! 🌵)
+- 👩🏼‍🎓.  I earned my bachelor's degree in Fine Visual Art with a minor in Traditional Eastern Arts from Naropa University in Boulder, CO. Namasté 🙏🏼
+
+- 🖼|  I have over 10yrs of experience designing and building custom framing for contemporary fine artwork.
 
 - ⚡️  What I do (away from the keyboard):
 
@@ -97,7 +91,7 @@
   - Draw & Paint 👩🏼‍🎨
 
 
-I am part of the QA Engineering team at [AppOmni](https://appomni.com/), working to secure connections to the services that power us through enterprise SaaS security management. I am also a graduate of the FrontEnd Engineering program at [Turing School of Software and Design](https://turing.edu/). ✌🏻
+I am part of the Quality & Automation Engineering team at [AppOmni](https://appomni.com/), working to secure connections to the services that power us through enterprise SaaS security management. I am also a graduate of the FrontEnd Engineering program at [Turing School of Software and Design](https://turing.edu/). ✌🏻
 
 
 
