@@ -62,12 +62,12 @@
 
 <hr>
 
-- 🙋🏼‍♀️.  Pronouns: she | her
+- 🙋🏼‍♀️   Pronouns: she | her
 
-- 🧠.  I’m excited to be learning about: leveraging Cypress.io for advanced test automation, building organized testing frameworks, 
+- 🧠   I’m excited to be learning about: leveraging Cypress.io for advanced test automation, building organized testing frameworks, 
        Vue, TypeScript, Docker and so much more!
 
-- ⌨️.  My kind of code is:
+- ⌨️   My kind of code is:
   
   - easy to navigate and maintain
   - modular, DRY and SRP
@@ -75,11 +75,11 @@
   - well-documented and organized
   - accessible and responsive
 
-- 👩🏼‍💻.  Ask about my lightening talk about _The Impacts of Incarceration on Access to Technology_. 
+- 👩🏼‍💻   Ask about my lightening talk about _The Impacts of Incarceration on Access to Technology_. 
 
-- 👩🏼‍🎓.  I earned my bachelor's degree in Fine Visual Art with a minor in Traditional Eastern Arts from Naropa University in Boulder, CO. Namasté 🙏🏼
+- 👩🏼‍🎓   I earned my bachelor's degree in Fine Visual Art with a minor in Traditional Eastern Arts from Naropa University in Boulder, CO. Namasté 🙏🏼
 
-- 🖼|  I have over 10yrs of experience designing and building custom framing for contemporary fine artwork.
+- 🖼   I have over 10yrs of experience designing and building custom framing for contemporary fine artwork.
 
 - ⚡️  What I do (away from the keyboard):
 
