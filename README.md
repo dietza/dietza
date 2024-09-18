@@ -65,7 +65,7 @@
 - 🙋🏼‍♀️   Pronouns: she | her
 
 - 🧠   I’m excited to be learning about: leveraging Cypress.io for advanced test automation, building organized testing frameworks, 
-       Vue, TypeScript, Docker and so much more!
+       Vue, TypeScript and so much more!
 
 - ⌨️   My kind of code is:
   
@@ -81,17 +81,20 @@
 
 - 🖼   I have over 10yrs of experience designing and building custom framing for contemporary fine artwork.
 
+- 🏔   I live in a mountain town and am an AASI Snowboard Instructor.
+
 - ⚡️  What I do (away from the keyboard):
 
   - Run 🏃🏼‍♀️
-  - Yoga 🧘🏼‍♀️
+  - Snowboard 🏂 
   - Garden 🪴
-  - Backpack / camp 🏕
+  - Backpack & Camp 🏕
+  - Yoga 🧘🏼‍♀️
   - Read 📚
-  - Draw & Paint 👩🏼‍🎨
+  - Draw & Paint & Pottery 👩🏼‍🎨
 
 
-I am part of the Quality & Automation Engineering team at [AppOmni](https://appomni.com/), working to secure connections to the services that power us through enterprise SaaS security management. I am also a graduate of the FrontEnd Engineering program at [Turing School of Software and Design](https://turing.edu/). ✌🏻
+I worked most recently ~in tech~ as part of the Quality & Automation Engineering team at [AppOmni](https://appomni.com/), working to secure connections to the services that power us through enterprise SaaS security management. I am a 2021 graduate of the FrontEnd Engineering program at [Turing School of Software and Design](https://turing.edu/). ✌🏻
 
 
 
